@@ -1,0 +1,1 @@
+export type layoutType = 'numpad' | 'default';
